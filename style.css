@@ -1,6 +1,6 @@
 body {
-    text-align: right;
-    background-color: linear-gradient(0deg #adadad #d8d8d8 );
+    text-align: left;
+    background: linear-gradient(0deg #adadad #d8d8d8 );
 }
 
 h1 {
